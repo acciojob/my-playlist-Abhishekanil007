@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#cccccc;
+}
+
+.player-one{
+	background-color:white;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border:2px solid;
+	border-radius:7px;
+}
+
+.player-two{
+	width: 320px;
+	background-color:white;
+	padding:10px;
+	margin:auto;
+	
+}
+
+h1{
+	text-align:center;
+}
+
+h2{
+	text-align:center;
+}
+
+li{
+	list-style-type: none
+}
+
+a{
+	text-decoration-line:none;
+}
