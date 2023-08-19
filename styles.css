@@ -3,7 +3,7 @@ body{
 	background-color:#cccccc;
 }
 
-.player-one{
+.player_one{
 	background-color:white;
 	padding-top: 30px;
 	padding-bottom: 30px;
@@ -11,7 +11,7 @@ body{
 	border-radius:7px;
 }
 
-.player-two{
+.player_two{
 	width: 320px;
 	background-color:white;
 	padding:10px;
